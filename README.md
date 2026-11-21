@@ -1,14 +1,11 @@
-# **Vibrant Glass Theme**
+# Vibrant Glass
 
-I made this theme only for myself, but some friends found it cool, so I decided to share it here.
+> **Maintained by [FDT](https://kazrutx.github.io/discord-themes-fixed/).** The original theme by
+> [Kaynooo](https://github.com/Kayno0o/vibrant-glass-theme) is no longer updated. This is the fixed and maintained version
+> for the current Discord UI. All credit for the design goes to Kaynooo.
 
-It doesn't take more performance than BetterDiscord/Discord already does.
-
-It's just a really simple theme that I made in a few hours.
-
-## **Issues**
-
-If you see anything weird or anything that can be improved, please tell me on my [Discord server](https://discord.gg/XhPKd5x7Fz).
+## Issues
+Open an issue here or ask on the [FDT Discord](https://discord.gg/nHPjQ8TTX3).
 
 ## **Preview**
 
@@ -54,3 +51,6 @@ idling
 **RAM**:
 
 +50 to +100MB more RAM used with the theme
+
+## License
+MIT. Original © 2021 Kaynooo, modifications © 2026 KAZRUTx / FDT.
